@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: import numpy as np
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10794#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 17 Dec 2020 20:53:13 UTC
+record: -1
